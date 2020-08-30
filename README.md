@@ -1,4 +1,4 @@
-# performance-curve-database
+# Performance Curve Database
 
 This is the data from the [Performance Curve Database](http://pcdb.santafe.edu/), downloaded on August 29, 2020.
 
