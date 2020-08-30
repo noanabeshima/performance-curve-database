@@ -1,6 +1,6 @@
 # performance-curve-database
 
-Data from the [Performance Curve Database](http://pcdb.santafe.edu/)
+This is the data from the [Performance Curve Database](http://pcdb.santafe.edu/).
 
 
 From the site:
