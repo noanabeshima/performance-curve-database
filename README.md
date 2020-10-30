@@ -1,6 +1,6 @@
 # Performance Curve Database
 
-This is the data from the [Performance Curve Database](http://pcdb.santafe.edu/), downloaded on August 29, 2020.
+This is the data from the [Performance Curve Database](http://pcdb.santafe.edu/), downloaded on August 29, 2020. It was created because I had some trouble downloading the raw CSV data from the website.
 
 
 From the site:
